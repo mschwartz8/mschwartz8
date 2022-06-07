@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mschwartz8
+- 👋 Hi, I’m Melissa Schwartz @mschwartz8
 - 👀 I’m interested in the outdoors, music, and reading
-- 🌱 I’m currently learning Javascript
+- 📚 My stack is PERN (PostgreSQL, Express, React, Node.js)
+- 🌱 I’m currently learning DS & Algos
 
 
 
